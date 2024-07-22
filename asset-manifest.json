@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/redslippers-calendar/static/css/main.5893a218.css",
-    "main.js": "/redslippers-calendar/static/js/main.05804346.js",
+    "main.js": "/redslippers-calendar/static/js/main.24c1ef43.js",
     "static/js/453.98a1ae32.chunk.js": "/redslippers-calendar/static/js/453.98a1ae32.chunk.js",
     "index.html": "/redslippers-calendar/index.html",
     "main.5893a218.css.map": "/redslippers-calendar/static/css/main.5893a218.css.map",
-    "main.05804346.js.map": "/redslippers-calendar/static/js/main.05804346.js.map",
+    "main.24c1ef43.js.map": "/redslippers-calendar/static/js/main.24c1ef43.js.map",
     "453.98a1ae32.chunk.js.map": "/redslippers-calendar/static/js/453.98a1ae32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5893a218.css",
-    "static/js/main.05804346.js"
+    "static/js/main.24c1ef43.js"
   ]
 }
